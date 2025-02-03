@@ -1,1 +1,2 @@
-.
+Este es un texto para checkear como se hace un git stash
+
